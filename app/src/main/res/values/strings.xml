@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatAPI</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="catimage">Cat Image</string>
+    <string name="catname">Cat Name</string>
+    <string name="cat_app">CAT APP</string>
+</resources>
